@@ -1,7 +1,8 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://i.pinimg.com/originals/95/1c/a7/951ca77e41ec120c76c3feaf0cea6a26.gif) bottom center;
   background-size: cover;
+  background-position: center;
 }
 
 body,html {
@@ -34,8 +35,8 @@ body,html {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  border-color: #2600ff;
+  box-shadow: 0 0 1rem #2600ff;
 }
 
 kbd {
